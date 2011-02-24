@@ -1,0 +1,17 @@
+======================
+Simple Image Slideshow
+======================
+
+HTML Slideshow, requires just three files:
+
+- image.txt
+
+ This file is a list of the images to include.  One image per file. After the image URL is a caption for the image which is seperated by a pipe (|).
+
+- viewer.php
+
+ This is the file to load in the browser. It can be renamed to anything such as index.php.  The HTML can be modified to any preference.
+
+- core.php
+
+ This file doesn't need to be changed.  It just includes the logic for everything.
